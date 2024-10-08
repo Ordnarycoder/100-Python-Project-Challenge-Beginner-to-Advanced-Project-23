@@ -1,0 +1,1 @@
+In next eight(probably) project, I will learn how to use different data types in python. I started with stack data type.
